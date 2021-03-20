@@ -43,6 +43,8 @@ permalink: /485-medical-exam-tips
 
 如果你不在乎花钱，那就跳过这一步，直接去医生那里，应该也可以打疫苗，只不过一般没法免费，因为移民体检不属于保险cover的范畴。
 
+验抗体：个人不建议，因为验抗体不准确，而且贵。不如直接免费打个疫苗，既便宜，还能保护自己免疫系统。
+
 ## 找医生体检
 
 只能在USCIS认证的医生体检，用USCIS的官网找医生: [https://my.uscis.gov/findadoctor](https://my.uscis.gov/findadoctor)
